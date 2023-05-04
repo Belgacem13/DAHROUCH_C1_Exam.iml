@@ -1,4 +1,5 @@
-//DAHROUCH Belgacem
+//DAHROUCH
+// Belgacem
 
 import PaqPort.*;
 import javax.swing.*;
